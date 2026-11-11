@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title desc">
+  <title id="title">Digital Training Center logo</title>
+  <desc id="desc">An open laptop with an upward arrow in navy and gold.</desc>
+  <rect x="5" y="5" width="110" height="110" rx="28" fill="#162E70"/>
+  <path d="M27 74h66l8 12H19l8-12Z" fill="#F3B73F"/>
+  <path d="M34 31h52v39H34z" fill="#fff"/>
+  <path d="m43 59 12-12 9 8 15-16" fill="none" stroke="#162E70" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M69 39h10v10" fill="none" stroke="#162E70" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M50 92h20" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+</svg>

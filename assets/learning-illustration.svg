@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 420" role="img" aria-labelledby="title desc">
+  <title id="title">Digital learning illustration</title>
+  <desc id="desc">A laptop with an upward arrow, a book and small learning symbols.</desc>
+  <circle cx="260" cy="210" r="178" fill="#e5ebf7"/>
+  <circle cx="407" cy="100" r="28" fill="#F3B73F"/>
+  <path d="M95 318h330l-31 31H126z" fill="#162E70"/>
+  <rect x="130" y="134" width="260" height="184" rx="16" fill="#162E70"/>
+  <rect x="146" y="150" width="228" height="148" rx="7" fill="#fff"/>
+  <path d="m181 260 43-42 31 24 63-70" fill="none" stroke="#F3B73F" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M284 172h34v34" fill="none" stroke="#F3B73F" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="196" y="354" width="132" height="14" rx="7" fill="#b8c5df"/>
+  <path d="M77 167h42v55H77z" fill="#F3B73F" rx="6"/>
+  <path d="M88 180h20M88 190h20M88 200h14" stroke="#162E70" stroke-width="4" stroke-linecap="round"/>
+  <path d="m425 220 12 12 22-25" fill="none" stroke="#162E70" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="106" cy="270" r="12" fill="#f2c76b"/>
+  <circle cx="420" cy="286" r="9" fill="#b8c5df"/>
+</svg>
