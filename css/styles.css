@@ -437,7 +437,7 @@ h1 span {
   margin: 0;
 }
 
-/* Six group-member cards: three columns on desktop. */
+/* Seven member cards: three columns on desktop. */
 .member-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -479,6 +479,11 @@ h1 span {
 .member-card.placeholder {
   border-style: dashed;
   background: #fafbfe;
+}
+
+/* Center the seventh card on the final desktop row. */
+.member-card:nth-child(7) {
+  grid-column: 2;
 }
 
 .table-wrap {
@@ -724,6 +729,10 @@ tbody tr:hover {
 
   .member-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .member-card:nth-child(7) {
+    grid-column: auto;
   }
 
   .page-hero {
